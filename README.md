@@ -9,3 +9,4 @@ SMPs without a proper name are named to the best of my ability.
 SMPs with multiple different world downloads are saved in seperate folders
 (eg. s1, s2); in order of earliest save to latest save.
 
+Thank you for reading
