@@ -1,5 +1,5 @@
 # MC SMP ARCHIVE
-### An Archive of current / past minecraft smps
+### An Archive of our current / past minecraft smps
 
 This contains all saved world files of previous smps.
 
